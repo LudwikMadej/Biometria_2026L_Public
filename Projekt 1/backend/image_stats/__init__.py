@@ -1,0 +1,2 @@
+from ._plot_brightness_histograms import plot_brightness_histograms
+from ._plot_projections import plot_projections
